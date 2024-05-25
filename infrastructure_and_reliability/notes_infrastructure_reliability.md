@@ -51,10 +51,23 @@ Caching copies of data closer to customers
 
 - Installing mini aws region inside your own data centre.
 
+# Lightsail
+
+- used to quickly launch small projects.
+
+# Batch
+
+- Process large workload in small batches
+
+# Wavelength
+
+- Allows users to reach application servers without leaving 5G mobile network.
+
 # Provisioning resources
 
 - Management console
-- CIi - calling apis to provision
+- CLI - calling apis to provision
+  - Programmatic access
 - SDK
 - Cloud formation - IAS
   - provision using template

@@ -1,6 +1,6 @@
 ## Lambda
 
-- Serverless
+- Serverless (No need to manager servers)
 - Management of server is taken care of
 - run code without needing to provision or manage servers.
 - Uses triggers to execute lambda functions
