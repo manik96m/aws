@@ -43,9 +43,13 @@
   - CDN - Amazon cloud front
   - DNS - amazon route 53
 
-# Concept of CDN
+# CDN (Cloud Front)
 
-Caching copies of data closer to customers
+- Caching copies of data closer to customers
+- For speed, reliability, global reach
+- Cloud Front caches content in edge locations
+- Uses AWS Shield for Ddos attacks
+- Used for streaming videos, traffic spikes, detailed analytics
 
 # Aws outposts - isolated data centre
 
