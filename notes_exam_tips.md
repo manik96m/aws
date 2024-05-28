@@ -23,13 +23,22 @@
   - Elastic Disaster Recovery
 - Content Delivery and Networking Services
   - CDN (Cloud front)
+  - DNS (Amazon Route 53)
   - Cloud Accelerator
   - Amazon VPC (Virtual Private Cloud)
-    -
--
--
+  - AWS Direct connect
+  - AWS VPN
+    - Site to Site VPN
+    - Client VPN
+- Database Services
+  - Different Database Types
+  - AWS Database Migration Service (DMS)
+  - AWS Dynamo DB (NoSQL DB)
+  - AWS MemoryDB for Redis (In-memory DB)
+  - Neptune (Graph DB)
 
-## AWS Cloud Accelerator
+## AWS Global Accelerator
 
+- Optimizes global application performance by routing user traffic through AWS's optimized network paths.
 - Uses edge locations to find best pathway to regional endpoint.
 - Provides consistent experience to global users.

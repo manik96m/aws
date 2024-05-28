@@ -19,6 +19,19 @@
 ## Aws direct connect
 
 - dedicated fiber connection from your data centre to aws
+- used for
+  - large scale data transfer
+  - Consistent performance
+  - Sensitive data
+
+## AWS VPN
+
+- Site to Site VPN
+  - For Data center
+  - Between your data center and AWS
+- Client VPN
+  - For individual access
+  - Secure access to AWS resources or your private network from any location.
 
 ## Network Access Control List(ACL)
 
