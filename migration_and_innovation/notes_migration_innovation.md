@@ -25,5 +25,27 @@
 
 - Devices used for migration
 - Snowcone - up to 14TB
-- Snowball - 80TB
+
+- Snowball - at least 10TB - Max 80TB
+- Snowball Edge - is used when compute capabilities are also required.
+
 - Snowmobile - up to 100 petabytes
+
+## AWS transfer family
+
+- File transfer solution for B2B
+
+## AWS DataSync
+
+- Move large amount of data
+- High data throughput
+- Pay per GB
+- Use case - migration, archiving
+
+## Application Discovery Service
+
+-
+
+## Application migration Service
+
+## AWS migration hub

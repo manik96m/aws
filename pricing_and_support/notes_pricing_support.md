@@ -6,6 +6,11 @@
   - Trials
 - Pay as you go
 
+# Pricing Calculator
+
+- Allows to access potential cloud costs.
+- It provides cost estimate breakdown.
+
 # AWS Billing & Cost Management dashboard
 
 - to pay your AWS bill, monitor your usage, and analyze and control your costs.
@@ -24,10 +29,16 @@
 
 - Console based service
 - Track spending over 12 months
+- Project end of month costs.
+
+# Cost and Usage reports
+
+- analyze historical cost data
 
 # Aws support plans
 
 - Basic support for all
+  - Basic Trusted advisor checks
 - Aws developer support
   - can email customer support directly. Receive response in 24hours
 - Aws business support
@@ -36,8 +47,11 @@
   - Limited support for 3rd part software like OS
 - Aws enterprise support (on-ramp)
   - 30 minute response time got business critical workloads. For companies migrating to AWS.
+  - Access to pool of TAM's
+  - Support for billing issues
 - Aws enterprise support
   - Mission critical workloads - 15 minute response time - designated technical account manager (TAM)
+  - Proactive support in managing billing
 
 # TAM
 

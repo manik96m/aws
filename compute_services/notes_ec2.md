@@ -37,19 +37,7 @@
 - Runs on region level
 - Automatically scales in/out on demand.
 - New instances informs ELB when they are available to take requests.
-- Load Balancer types
-  -
-
-## Messaging and Queueing
-
-- Amazon SQS - Simple Queue Service
-  - Send/Store/Receive messages between software components at any volume.
-- Amazon SNS - Simple Notification Service
-  - Send/Store/Receive messages between software components or end users at any volume.
-  - Uses pub/sub model
-- Message Queue
-  - Application don't need to directly communicate with each other.
-  - Helps decouple the architecture/applications.
+- ## Load Balancer types
 
 ## Connecting to EC2
 

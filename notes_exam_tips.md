@@ -36,6 +36,24 @@
   - AWS Dynamo DB (NoSQL DB)
   - AWS MemoryDB for Redis (In-memory DB)
   - Neptune (Graph DB)
+- Development, Messaging and Deployment Services
+  - Dev Tools (CodeCommit, CodeBuild, CodeDeploy, CodePipeline)
+  - Decoupling
+  - SQS (Simple Queue Service)
+  - SNS (Simple Notification Service)
+  - SES (Simple Email Service)
+  - Event Bridge
+  - Step functions
+  - Cloud Formation
+  - AWS Elastic Beanstalk
+- Migration Technologies
+  - Snow Family
+    - SnowCone, SnowBall, SnowMobile
+- Pricing and Support
+  - Budgets
+  - Cost Explorer
+  - Cost and usage reports
+  - Consolidating billing with AWS organizations
 
 ## AWS Global Accelerator
 

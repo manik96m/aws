@@ -46,11 +46,11 @@
   - Standard Infrequent Access
     - Data accessed less frequently but needs RAPID access.
   - One Zone-Infrequent Access
-    - Stored in Availability zone and is cost-effective
+    - Stored in one Availability zone and is cost-effective
     - can be used for backups
   - Glacier Instant Retrieval
     - Archive storage for data not frequently accessed
-    - But provided INSTANT retrieval
+    - But provides INSTANT retrieval
   - Glacier Flexible Retrieval
     - Archive Storage
     - Access is not immediate and can take some time

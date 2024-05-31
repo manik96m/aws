@@ -7,21 +7,6 @@
 
 - Cloud-based, on-premises, & Hybrid
 
-## Solutions
-
-COMPUTE SERVICES
-
-- EC2
-  - Auto Scaler
-  - Elastic Load Balancing
-- ECS - Elastic Container Service
-- EKS - Elastic Kubernetes Service
-- Fargate
-- Lambda
-
-- Cloud Formation
-- CDK
-
 # AWS well-architected architecture - 6 pillars
 
 - Operational excellence
@@ -45,3 +30,8 @@ COMPUTE SERVICES
 - Increase speed and agility
 - Stop spending money maintaining data centres
 - Go global in minutes
+
+# Tags
+
+- Group and filter resources
+- can be used explore cost of resources associated to a tag.

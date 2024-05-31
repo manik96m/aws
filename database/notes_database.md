@@ -24,7 +24,7 @@
 
 ## AWS Schema Conversion Tool (SCT)
 
-- Helps source database schema to target database schema.
+- Helps migrate source database schema to target database schema.
 
 ## AWS DynamoDB
 
