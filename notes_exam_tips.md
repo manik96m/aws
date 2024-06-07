@@ -9,6 +9,11 @@
   - Management console - UI, CLI - Programmatic
 - Migration
   - AWS cloud adoption framework, AWS well-architected architecture
+  - AWS Transfer Family
+  - AWS DataSync (pay per GB)
+  - Application Discovery Service
+  - Application migration service
+  - AWS migration HUB
 - Compute technologies
   - EC2, instance types, pricing
   - Load balancer
@@ -49,11 +54,43 @@
 - Migration Technologies
   - Snow Family
     - SnowCone, SnowBall, SnowMobile
+- Monitoring and Logging
+  - metrics
+  - Cloud Watch
+  - Cloud Trail
+  - Systems Manager
+  - Trusted Advisor (can use AWS config)
+  - Health Dashboard
+  - AWS config
+  - Audit manager (can use AWS config)
 - Pricing and Support
   - Budgets
   - Cost Explorer
   - Cost and usage reports
   - Consolidating billing with AWS organizations
+  - AWS support plans
+    - Basic
+    - Developer
+    - Business
+    - Enterprise (on-ramp)
+    - Enterprise
+  - TAM
+- Security
+  - Shared Responsibility model
+  - Principle of least privilege
+  - IAM
+  - System Manager Parameter Store
+  - Secret Manager
+  - AWS Network Firewall
+  - AWS Shield
+  - Amazon GuardDuty
+  - Amazon Detective
+  - Amazon Inspector
+  - AWS Marketplace
+  - AWS organizations
+  - Compliance
+    - AWS Artifact
+- AI, ML, Analytics
 
 ## AWS Global Accelerator
 

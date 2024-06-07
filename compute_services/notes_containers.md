@@ -1,20 +1,20 @@
 ## ECR - Elastic Container Registry
 
-- store registry store, share and deploy container software
-- ECS and EKS take container software from ECR to deploy applications in containers.
+- registry store, share and deploy container software
+- ECS and EKS take container software from ECR to deploy applications to containers.
 
 ## ECS - Elastic Container Service
 
-- fully managed and serverless using fargate
-- supports docker
+- fully managed and serverless using Fargate.
+- supports Docker.
 
 ## EKS - Elastic Kubernetes Service
 
 - fully managed open-source system
-- supports kubernetes
+- supports Kubernetes
 
 # Fargate
 
-- is used for workloads running for more than minutes. Otherwise, Lambda can be used.
+- is used for workloads running for more than 15 minutes. Otherwise, Lambda can be used.
 - can only choose CPU size and memory size of your container,
   but not the processor or hardware

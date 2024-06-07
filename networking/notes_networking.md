@@ -36,7 +36,7 @@
 ## Network Access Control List(ACL)
 
 - Each packet sent (both inbound and outbound) to VPC is checked by Network access control list(ACL) for permissions.
-- Default acl allow all inbound and outbound traffic.
+- Default ACL ALLOW all inbound and outbound traffic.
 - Network ACLs are stateless
 - Operate at subnet level.
 

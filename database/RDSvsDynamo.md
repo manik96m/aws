@@ -7,4 +7,3 @@
 ## Dynamo DB
 
 - Granular API access
--

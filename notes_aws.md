@@ -35,3 +35,16 @@
 
 - Group and filter resources
 - can be used explore cost of resources associated to a tag.
+
+# Amazon connect
+
+- allows to create call center in cloud
+- is cloud based contact center
+
+# Amazon workspaces
+
+- Create and connect directory of users and give access to virtual desktops
+
+# Amazon AppStream
+
+- Converts application to SAAS

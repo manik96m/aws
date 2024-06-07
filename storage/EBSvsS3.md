@@ -1,7 +1,7 @@
 ## EBS
 
 - Size up to 16 TiB
-- Block storage can break a file into multiple
+- Block storage can break a file into multiple blocks
 - Individual blocks can be updated depending on the change
 
 ## S3

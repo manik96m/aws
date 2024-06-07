@@ -58,9 +58,9 @@
 - Can perform health checks as well.
   - and redirect requests accordingly.
 
-## Aws outposts - isolated data centre
+## Aws Outposts - isolated data centre
 
-- Installing mini aws region inside your own data centre.
+- Installing mini AWS region inside your own data centre.
 
 ## Lightsail
 

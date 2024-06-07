@@ -31,7 +31,7 @@
 
 ## Permissions
 
-- to access lambda form API gateway (TBD)
+- to access lambda from API gateway (TBD)
 
 ## Handling error with an API Gateway API
 

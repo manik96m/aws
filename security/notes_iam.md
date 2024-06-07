@@ -4,7 +4,7 @@
 - IAM user
   - Explicitly allow access to resources.
   - New IAM users come with 0 permissions.
-  - IAM user is an identity that is you create in AWS.
+  - IAM user is an identity that you create in AWS.
   - consists of name and credentials.
 - IAM policy
   - describes the permissions granted to a user / group.
@@ -32,3 +32,43 @@
   - easily grant access to the services and resources required by an Organization unit.
 - Consolidated billing
 - Hierarchical grouping of account
+
+## IAM Identity Center
+
+- Using federated entity
+- Using 3rd party identity provider to provide access
+
+## System Manager Parameter Store
+
+- Secrets like username, password, ...
+- it can be accessed using IAM roles
+
+## Secrets Manager
+
+- Ability to rotate secrets
+
+## AWS Network Firewall
+
+- Filter based on origin
+- can define rules to inspect traffic within VPCs
+
+## AWS WAF (Web Application Firewall)
+
+- protects against common exploits
+- like SQL injection or cross-site scripting
+
+## AWS Shield
+
+- Protects from DDoS (Denial of Service)
+
+## Amazon GuardDuty
+
+- checks logs across application and detect threats
+
+## Amazon Detective
+
+- Helps investigate security events that have already happened
+
+## Amazon Inspector
+
+- Scans for software vulnerabilities and network exposure

@@ -62,7 +62,8 @@
 ## FSx
 
 - fully managed
-- Windows File System
+- Manage third-party file systems
+- Windows File System and couple others
 
 ## Elastic Disaster Recovery
 

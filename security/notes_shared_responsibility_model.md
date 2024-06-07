@@ -1,7 +1,7 @@
 ## Shared Responsibility Model
 
-- AWS is responsible for security of the cloud.
-- Customer is responsible for security in the cloud.
+- AWS is responsible for security OF the cloud.
+- Customer is responsible for security IN the cloud.
 
 ## User Permission and Access
 
