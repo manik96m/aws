@@ -42,8 +42,12 @@
 
 ## Security Groups
 
+- By default inbound traffic is blocked and outbound is allowed.
 - Instance are assigned with security groups (Ex - EC2 instance)
 - Security group checks inbound traffic only.
   - Security groups are stateful.
+- Changes to security groups take effect immediately.
+- Can have any number of instances within a security group.
+- An instance can have multiple security groups.
 
 VPC -> Subnets -> Route Tables -> Internet Gateway

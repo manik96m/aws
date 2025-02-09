@@ -61,6 +61,14 @@
 ## Aws Outposts - isolated data centre
 
 - Installing mini AWS region inside your own data centre.
+- Outposts Rack
+  - Providing single 42U rack and scale up to 96 racks
+  - Provides AWS compute, storage, databases, ...
+  - Use it in your data center
+- Outposts Servers
+  - Individual servers in 1U or 2U form factor
+  - Useful for small space, retail stores, branch offices, ...
+  - Provides local compute and networking services.
 
 ## Lightsail
 
