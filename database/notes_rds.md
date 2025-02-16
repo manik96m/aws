@@ -53,6 +53,6 @@
 - It starts-up, shuts down and scales capacity up/down based on application's needs
 - for infrequent and cost effective access
 - for variable workloads
-- Aurora Capactity Units - Measurement on how your clusters scale
+- Aurora Capacity Units - Measurement on how your clusters scale (compute, memory)
 - Set Min and Max of ACUs for scaling requirements
 - Allocated quickly by AWS-managed warm pools

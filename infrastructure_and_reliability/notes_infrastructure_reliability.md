@@ -51,13 +51,6 @@
 - Uses AWS Shield for Ddos attacks
 - Used for streaming videos, traffic spikes, detailed analytics
 
-## DNS (Amazon Route 53)
-
-- Human readable name to IP address.
-- Helps with traffic routing.
-- Can perform health checks as well.
-  - and redirect requests accordingly.
-
 ## Aws Outposts - isolated data centre
 
 - Installing mini AWS region inside your own data centre.

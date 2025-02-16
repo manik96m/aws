@@ -139,3 +139,7 @@
 - Docker images in ECR (Elastic Container Registry)
 - Using Open Source Kubernetes in Amazon EKS Distro
 - Orchestrating Containers outside AWS using EKS Anywhere and ECS Anywhere
+- AWS X-ray for application insights
+- Deploying GraphQL Interfaces in AWS AppSync
+
+## Route 53
