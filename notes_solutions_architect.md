@@ -107,3 +107,35 @@
 - User
 - Group
 - Roles
+
+## Database
+
+- RDS
+  - OLTP vs OLAP
+  - RDS Multi AZ
+  - usecase of Multi AZ
+  - Read Replica
+- Amazon Aurora
+- DynamoDB
+  - ACID with DynamoDB
+- ACID Properties
+
+- MongoDB / Amazon DocumentDB
+  - Operating MongoDB Compatible databases in AmazonDB
+- Apache Cassandra workloads with Amazon Keyspaces
+- Graph databases using Amazon Neptune
+- Leveraging Amazon Quantum Ledger Database (QLDB) for Ledger Databases
+- Analyzing time-series data with Amazon TimeStream
+
+## Serverless Computing
+
+- Lambda
+- AWS Serverless Application Repository
+- Container
+- ECS
+- EKS
+- Fargate
+- Amazon EventBridge or CloudWatch Events
+- Docker images in ECR (Elastic Container Registry)
+- Using Open Source Kubernetes in Amazon EKS Distro
+- Orchestrating Containers outside AWS using EKS Anywhere and ECS Anywhere
