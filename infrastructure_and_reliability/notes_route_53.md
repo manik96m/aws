@@ -19,7 +19,7 @@
 
 - 7 Routing policies available
 
-  1.
+  1. Simple - Can only have One record with multiple IP addresses. If multiple values provided in a record, then Route 53 return these values in random order.
   2.
 
 - Registering Domain name
