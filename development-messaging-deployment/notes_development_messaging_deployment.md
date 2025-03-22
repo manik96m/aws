@@ -89,3 +89,16 @@
 - it is part of Cloud Watch
 - Analyze performance and health of distributed applications.
   -X-ray service map provides end-to-end view of service requests.
+- X-ray concepts
+  - Segments - Data containing resource name, request details, ...
+  - Sub-Segments - Granular timing info and details
+  - Service Graph - Graphical representation of services involved
+  - Traces - Trace ID track paths of requests and trace collect all segments in a request
+  - Tracing Header - Extra HTTP header containing sampling decisions and trace ID
+    - It is named X-Amzn-Trace-Id
+
+## X-Ray Daemon
+
+- listens on UDP port 2000
+- Collects raw segment data and sends it to X-ray API
+- Ex Use - EC2, ECS, Lambda, API Gateway, SNS, SQS

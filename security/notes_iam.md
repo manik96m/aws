@@ -8,6 +8,10 @@
   - consists of name and credentials.
 - IAM policy
   - describes the permissions granted to a user / group.
+- IAM policy documents
+  - Used to control permissions
+  - Made up of JSON
+  - can be assigned to groups, users and roles.
 - IAM group
   - can be created to share permissions across multiple users.
   - easier to manage same permissions that are required for multiple users.
